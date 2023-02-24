@@ -148,4 +148,4 @@ export default App;
 - state ပြောင်းလဲမှုတွေကိုလဲ useRef နဲ့ track လုပ်လို့ရပါတယ်။
 - ဆိုလိုတာက state တစ်ခု update  မဖြစ်ခင်က previous state values ကို useRef နဲ့ track လုပ်နိုင်တယ်တာ ဖြစ်ပါတယ်။
 
-## [Read more about of react userRef hook with example](https://www.w3schools.com/react/react_useref.asp)
+## [Read more about of useRef hook with example](https://www.w3schools.com/react/react_useref.asp)
