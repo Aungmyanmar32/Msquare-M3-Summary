@@ -56,7 +56,7 @@ app.listen(port, () => {
 - တည်ဆောက်ထားတဲ့ formdata ထဲ data တွေ ထည့်ချင်ရင် append ကို အသုံးပြုရပါမယ်
 - formdata   ထဲက data value ကိုလိုချင်ရင်  get ကို သုံးပေးရပါမယ်။
 #### syntax
-`formData.append( "key", "value" )`
+`formData.append( "key", "value" )` <br>
 `formData.get(data-key)`
 - example
 ```js
