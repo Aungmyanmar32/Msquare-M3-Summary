@@ -31,7 +31,7 @@ export default App;
 ```
 - npm start နဲ့ react app ကို run လိုက်တဲ့အခါ online Booking App ဆိုပြီး browser မှာ ပြပေးနေတာကို တွေ့ရမှာဖြစ်ပါတယ်။
 - ဆက်လက်ပြီး DatePicker ဆိုတဲ့ component တစ်ခု လုပ်ပါမယ်
-```properties
+```console
 // terminal
 Admin@MSquare MINGW64 ~/Desktop/ep31/fullstack/frontend (main)
 $ cd src/
