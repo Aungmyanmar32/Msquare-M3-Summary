@@ -5,7 +5,7 @@
 ###  Create new react app with typescript
 - အရင်ဆုံး react app ဆစ်ခုကို typescript နဲ့ တည်ဆောက်ပါမယ်
 - ပြီးခဲ့တဲ့ သင်ခန်းစာမှာ လုပ်ထားတဲ့ frontend folder ကို ဖျက်လိုက်ပြီ react project ကို အသစ်ပြန်လုပ်ပါမယ်။
-```properties
+```console
 //terminal
 Admin@MSquare MINGW64 ~/Desktop/ep31/fullstack (main)
 $ npx create-react-app frontend --template typescript
