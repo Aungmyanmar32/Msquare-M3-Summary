@@ -281,7 +281,7 @@ const upload = multer({
     key: function (request, file, cb) {
       console.log(file);
       cb(null,"aung-myanmar/"+ file.originalname);
-      //replace folder name in string
+      //replace your folder name in string
     },
   }),
 }).array("files", 1);
