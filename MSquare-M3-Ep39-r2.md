@@ -8,7 +8,7 @@
 ### အရင်နေ့က သင်ခန်းစာကိုပဲ ဒီနေ့မှာ ပြန်လေ့ကျင့်သွားမှာဖြစ်ပါတယ်
 - အရင်ဆုံး projcet အသစ်တစ်ခုလုပ်ပါမယ်
 - terminal ကို ဖွင့်ပါ 
-```properties
+```console
 //terminal
 Admin@MSquare MINGW64 ~/Documents/projects/ep38-project
 $ cd
