@@ -72,3 +72,4 @@ export default App;
 - အခုဆိုရင် react app ( localhost:3000) မှာ သွားကြည့်လိုက်ရင် date picker တစ်ခုနဲ့ radio group တစ်ခု ကို ပြပေးနေတာတွေ့ရမှာပါ။
 -  radio group က itemတစ်ခုကို select လုပ်လိုက်တဲ့အခါ alert တစ်ခု ပြနိုင်အောင် လုပ်ပေးကြည့်ပါ
 - radio group မှာ server ကနေ response ပြန်လာတဲ့ slot array ထဲက time တွေ ပြပေးနိုင်အောင် Pros ကို သုံးပြီးလုပ်ကြည့်ကြပါ။
+> Props ကို သုံးပြီး component တစ်ခုကနေ နောက်တစ်ခုဆီကို data ပို့နည်းနဲ့ data လက်ခံတဲ့ component မှာ type လုပ်နည်းတွေကို နောက်သင်ခန်းစာမှာ လေ့လာကြပါမယ်။
