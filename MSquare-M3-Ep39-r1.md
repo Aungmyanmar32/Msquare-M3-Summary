@@ -334,4 +334,4 @@ export default function TimePicker({ slots }: Props) {
 
 ```
 - အခု ဆိုရင် error ပြနေတာတွေ အဆင်ပြေသွားပြီမလို့ react app ကို run  ပြီး server က data .jsထဲမှာ သိမ်းထားတဲ့ ရက် တစ်ရက် ကိုရွေးစမ်းကြည့်ပါက radio group မှာ time တွေပြပေးတာကို မြင်ရမှာဖြစ်ပါတယ်
-![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/Msquare-M3-Summary/main/mmpass1.png)
+![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/Msquare-M3-Summary/main/mmpass2.png)
