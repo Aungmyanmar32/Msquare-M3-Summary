@@ -278,7 +278,7 @@ export default App;
   - ဒါကြောင့်မလို့ useEffect Hook ကို သုံးပြီး re-render ပြဿနာကို ဖြေရှင်းလိုက်တာ ဖြစ်ပါတယ်
   - useEffect Hook ဟာ render အားလုံးလုပ်ပြီးတဲ့အချိန်မှ run လေ့ရှိပါတယ်။
   - သူ့အထဲက callback function မှာ state ဘယ်ေလာက်ချိန်းချိန်း re- render မဖြစ်အောင် ထိန်းချုပ်ထားပါတယ်
-  - DependencyList မှာ ထည့်ပေးထားတဲ့ value ရဲ့ stage change မှသာ re- render လုပ်ပေးတာမလို့   fetchData function ကို useEffect Hook ထဲ မှာ ခေါ်ပေးလိုက်တာဖြစ်ပါတယ်။
+  - DependencyList မှာ ထည့်ပေးထားတဲ့ value ရဲ့ stage change မှသာ re- render လုပ်ပေးတာမလို့   fetchData function ကို useEffect Hook ထဲ မှာ ခေါ်ပေးလိုက်တာဖြစ်ပါတယ်။<br>
   `<TimePicker slots={slots} />`
   - အခု App component မှာ TimePicker component ဆီ props အနေနဲ့ ပို့မယ့် data အတွက် ပြင်ဆင်ပြီးပြီးမလို့ TimePicker component ကို return ထဲ ထည့်ခေါ်လိုက်ပါတယ်
   - TimePicker component က Slot interface ကို  App component မှာimport ယူသုံးထားတာမလို့ `TimePicker .tsx` မှာ Slot interface ကို export လုပ်ပေးရပါမယ်
