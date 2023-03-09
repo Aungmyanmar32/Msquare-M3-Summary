@@ -135,11 +135,11 @@ const fileInput = document.getElementById("formFile");
 const uploadFile = async () => {
   const filesList = fileInput.files;
  
-  console.log(fileArray);
+  
 
   const formData = new FormData();
-  formData.append(fileList[0])
-  formData.append(fileList[1])
+  formData.append("files",filesList[0])
+  formData.append("files",filesList[1])
 
   const response = await fetch("http://localhost:3000/cloudUpload", {
     method: "POST",
