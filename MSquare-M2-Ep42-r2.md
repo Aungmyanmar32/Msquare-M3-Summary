@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*41* Summary for (group 2) 
+### Episode-*42* Summary for (group 2) 
 
 ဒီနေ့သင်တန်းမှာတော့ <br>
 
