@@ -22,7 +22,7 @@
 - aws s3 client module တစ်ခု install လုပ်ပေးပါ။
 `npm i @aws-sdk/client-s3`
 
-```properties
+```console
 // Terminal 
 
 aungm@MSquare MINGW64 ~/Documents
