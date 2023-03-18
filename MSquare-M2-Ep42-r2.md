@@ -76,8 +76,8 @@ const s3Client = new S3({
     endpoint: "https://sgp1.digitaloceanspaces.com/",
     region: "asia",
     credentials: {
-      accessKeyId: "DO00AKAWLRVPT3XBKMQC",
-      secretAccessKey: "Sz9cmmtb0csW6MccES3kTAqxwWZJ8hMqdE42xg19OiA",
+      accessKeyId: ask for access key to Aungmyanmar,
+      secretAccessKey: ask for secretAccessKey to Aungmyanmar,
     },
   });
   
