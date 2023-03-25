@@ -199,7 +199,8 @@ export  default  App;
  ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/react4.png)
  ##
  ### props
- - component တစ်ခုကို ခေါ်သုံးတဲ့ အခါ props တွေ ထည့်ပြီးသုံးလေ့ရှိပါတယ်
+ - component တစ်ခုကို ခေါ်သုံးတဲ့ အခါ data တွေ ပို့ပေးချင်ရင် props တွေ ထဲ ထည့်ပြီးပို့လေ့ရှိပါတယ်
+ - -
  ## နမူနာ
  ### App.js
 ```jsx
