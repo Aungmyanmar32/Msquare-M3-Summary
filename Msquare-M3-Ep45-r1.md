@@ -311,7 +311,8 @@ export default App;
 
 ```
 - ဒါဆိုရင်တော့ Project folder တစ်ခုထဲမှာပဲ App နှစ်ခု လုပ်ဖို့ route တွေ ပြင်ဆင်ထားပြီးပါပြီး
-- ဖိုင်တွေကို save ပြီး react app မှာ စမ်းသပ်ကြည့်ပါ။![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/Msquare-M3-Summary/main/ep45%20%282%29.png)
+- ဖိုင်တွေကို save ပြီး react app မှာ စမ်းသပ်ကြည့်ပါ။<br>
+![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/Msquare-M3-Summary/main/ep45%20%282%29.png)
 
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/Msquare-M3-Summary/main/ep45%20%281%29.png)
 
